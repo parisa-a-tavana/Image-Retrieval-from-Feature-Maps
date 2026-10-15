@@ -1,5 +1,5 @@
 # Image-Retrieval-from-Feature-Maps
-In this project, we use deconvolution layers to visualize the extracted features of different layers of AlxNet. By reveiwong these images, we see that the primary layers of information images
+In this project, we use deconvolution layers to visualize the extracted features of different layers of AlxNet. By reveiwong these images, we see the primary layers of information images
 They have a lot and by going deeper into the network, the details are removed and the general information of the image such as the dominant colors of the image
  remain.
 <br>
